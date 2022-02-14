@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "node": "^16.6.1"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "aoi.js": "^5.0.7",
+    "express": "^4.17.2",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.4.1",
+    "opusscript": "0.0.8",
+    "quick.db": "^7.1.3",
+    "sqlite3": "^5.0.2"
+  }
+}
